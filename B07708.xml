@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Levi his complaint: or, The moane of the poore ministerie. by William Guild, Minister at King-Edward..</title>
+            <author>Guild, William, 1586-1657.</author>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07708</idno><idno type="EEBO-CITATION">166384444</idno>
+  <idno type="VID">191561</idno>
+  <idno type="EEBO-PROQUEST">2248529742</idno>
+  <idno type="STC">STC 12483</idno>
+  <idno type="STC">ESTC S92777</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B07708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2272:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Levi his complaint: or, The moane of the poore ministerie. by William Guild, Minister at King-Edward..</title>
+                  <author>Guild, William, 1586-1657.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andro Hart,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno 1617..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ornament on t.p., printer's device at colophon (Mck. 378), initials, printed marginalia.</note>
+                  <note>Imprint: "By Authoritie."</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191561:1"/>
+            <p>LEVI HIS COMPLAINT: OR, THE MOANE OF THE POORE MINISTERIE.</p>
+            <p>LAMENT. 3. vers. 59. O LORD, thou hast seene my wrong, judge thou my cause.</p>
+            <p>
+               <hi>By</hi> WILLIAM GVILD, <hi>Minister at KING-EDWARD.</hi>
+            </p>
+            <p>
+               <hi>EDJNBƲRGH,</hi> Printed by <hi>Andro Hart,</hi> ANNO 1617 <hi>By Authoritie.</hi>
+            </p>
+            <pb facs="tcp:191561:2"/>
+            <pb facs="tcp:191561:2"/>
+            <pb facs="tcp:191561:3"/>
+            <pb facs="tcp:191561:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191561:4"/>
+            <pb facs="tcp:191561:4"/>
+            <head>TO THE SACRED MAIESTIE OF THEIR dearest &amp; dread Soueraigne GREAT BRITANS MONARCH, &amp;c.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Psalme</hi> 20. <hi>vers.</hi> 9.</bibl>
+               <q>Saue Lord, and let the King heare vs in the day that wee call.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T was a grie<g ref="char:EOLhyphen"/>uous wrong <hi>(Deare Lord and dread Soueraigne)</hi> done by the men of <hi>Gibeah,</hi>
+               <note place="margin">Iudg. 20.</note> that made the <hi>Leuite</hi> to com<g ref="char:EOLhyphen"/>plaine so to <hi>Israel</hi> in <hi>Mispeh:</hi>
+               <note place="margin">Nomb. 22.</note> It was oft smiting and an ex<g ref="char:EOLhyphen"/>traordinarie extremitie (as a secundarie cause) that made <hi>Baalam,</hi> the sonne of <hi>Peors</hi> Asse to speake: <hi>And doeth the wilde Asse bray
+<pb n="4" facs="tcp:191561:5"/>when hee hath grasse?</hi>
+               <note place="margin">Iob. 6.5.</note>
+               <hi>or loweth the Oxe when hee hath fodder?</hi> (saieth that mirrour of patience <hi>Iob</hi>) A grie<g ref="char:EOLhyphen"/>uous increasing bōdage likewise made <hi>Israel</hi> to grone:
+<note place="margin">Exod. 2.23.</note> And a desperate-seeming-danger droue <hi>Mordecai</hi> to <hi>Esther,</hi>
+               <note place="margin">
+                  <hi>Esther.</hi> 5.</note> and her againe venterouslie to the King.</p>
+            <p>
+               <hi>Euen so</hi> woefull desolation in most partes, and that of no small boundes of your Majesties Kingdome here, where the Kingdome of CHRIST by preaching thorow want of prouision with-holden, is not yet established, and <hi>the musseling of their mouthes who trea<g ref="char:EOLhyphen"/>deth out the Lordes Corne,</hi>
+               <note place="margin">
+                  <hi>Deut. 25.4.</hi> 1. <hi>Tim. 5.18</hi>
+               </note> where they are retained, but beggerlie intertained, and the ouer-loading of them with base contempt, forceth vs all to come to your Majestie at this time, with <hi>Peters</hi> wordes in our mouthes,
+<note place="margin">Matth. 8.25.</note> crying and crauing, <hi>Master helpe vs, else we perish.</hi>
+            </p>
+            <p>It was the will of the Supreame Lord of Heauen, <hi>if thou seest thine enemies asse lying vnder his burden,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 23.</note>
+               <hi>helpe him vp againe:</hi> And <hi>a righteous man regardeth the life of his verie beast</hi> (saieth that wise Preacher.)
+<note place="margin">
+                  <hi>Prov.</hi> 12.10</note> If pi<g ref="char:EOLhyphen"/>tie &amp; charitie then command helpe to the brute of an enemie; and if God commende care of the beast of the fielde, what may these then expect of their <hi>Su<g ref="char:EOLhyphen"/>preame Lord on earth,</hi> beeing his owne <hi>Leuites,</hi> and his makers inheritance, fayling for weaknesse procee<g ref="char:EOLhyphen"/>ding of want, and falling for wearinesse proceeding of contempt?</p>
+            <p>As <hi>Hannah</hi> then answered to <hi>Eli,</hi>
+               <note place="margin">1. Sam. 1.15.</note>
+               <hi>blame vs no to haue powred out our soules before our Lord,</hi> nor that wee come as the people did to our godlie <hi>Nehemiah</hi>
+               <note place="margin">
+                  <hi>Nehem. 5</hi> 5</note>
+               <pb n="5" facs="tcp:191561:5"/>(whose soule the Lord binde in the bundle of Life) complaining of our necessitie and wrong, that there is no power left in our handes: for others haue our li<g ref="char:EOLhyphen"/>uinges, and wee are in subjection,
+<note place="margin">Genes. 49.</note> being like <hi>Issachars asse, couching downe betweene heauie burdens:</hi> but most vnlike to <hi>Iudah's, which was tyed to the best Vine.</hi>
+            </p>
+            <p>For it is th'estate of the poore Ministerie that wee moane, and would haue mended, who as if with the <hi>Capucian</hi> they had wowed pouertie, are so plumed vpon by these whose <hi>greede</hi> would haue <hi>neede,</hi> an in<g ref="char:EOLhyphen"/>separable accident, <hi>quarto modo proprium</hi> to Mini<g ref="char:EOLhyphen"/>sters, that as <hi>Beth-auens</hi> Priestes are depriued of their lawfull Matrimonie, so they thinke that <hi>Beth-els</hi> Prea<g ref="char:EOLhyphen"/>chers should bee denuded of their lawfull patrimo<g ref="char:EOLhyphen"/>nie:
+<note place="margin">Exod. 36 2. Mac. 4.</note> and therefore they haue turned <hi>Israels afferre</hi> to the Sanctuarie, to <hi>Lysimachus auferre</hi> from the same: beeing onelie skilfull to <hi>decline</hi> in the ablatiue case, their onelie Arithmeticke consisting in <hi>substraction</hi> from the Church, to make vp an <hi>addition</hi> to them<g ref="char:EOLhyphen"/>selues,
+<note place="margin">Psal. 69.9. Iohn. 2.17.</note> and inverting that speach of <hi>David</hi> compe<g ref="char:EOLhyphen"/>tent vnto CHRIST, <hi>for their zeale hath eaten vp the Lordes house.</hi>
+            </p>
+            <p>Shall <hi>Israel</hi> then fulfill their taske,
+<note place="margin">Exod. 5.7.</note> and haue their straw with-drawne, to gather short stubble to them<g ref="char:EOLhyphen"/>selues? Shall <hi>Iaakob</hi> feede his masters flocke,
+<note place="margin">Genes. 31. Nehem. 13.</note> and haue his wages so changed and impaired? Shall the <hi>Le<g ref="char:EOLhyphen"/>uite</hi> bee either forced to desert the worke, because of the portion with-holden, as in the time of captiuitie and desolation?
+<note place="margin">Judg. 18.</note> or else to turne in to <hi>Micahs</hi> pettie portion, as in the time when there was no King in
+<pb n="6" facs="tcp:191561:6"/>
+               <hi>Israel,</hi> and a whole Tribe scarse cared for one Priest amongst them all?</p>
+            <p>Shall <hi>Scotia</hi> bee rightlie construed <hi>darknesse,</hi> in re<g ref="char:EOLhyphen"/>garde of manie places thereof, where that light which is the life of men neuer yet shined, nor that worde of glorious peace neuer yet sounded, but are a people sitting in the shadow of death, thorow want of the meanes of the Gospel of Life? And shall the Ambas<g ref="char:EOLhyphen"/>sadoures of the King of <hi>Israel</hi> bee so vngratelie in<g ref="char:EOLhyphen"/>treated by the <hi>Ammonites,</hi>
+               <note place="margin">Sam. 10.</note> as to be so nearlie shauen, and their garmentes curtailed; and shall not this bee showne to our godlie <hi>David?</hi>
+            </p>
+            <p>Pouertie is now so seated where plentie was instal<g ref="char:EOLhyphen"/>led, and contempt where honour had place, that where the Churches bread was sometime like <hi>Ashers,</hi>
+               <note place="margin">Genes. 49.</note>
+               <hi>fatte and abounding,</hi> nowe shee must bee content of <hi>Ruthes scattered glaininges,</hi>
+               <note place="margin">
+                  <hi>Ruth. 2. Lament.</hi> 1.2 <hi>Mal. 2.7</hi>
+               </note> for <hi>all her friends haue dealt vnfaithfully with her, and are her enemies:</hi> And where <hi>many excellent thinges were spoken of her</hi> (as <hi>of the citie of God) and glorious were the feete of those that brought the gladde tydinges of peace,</hi> nowe shee may exclaime, saying,
+<note place="margin">Lament. 1.11</note>
+               <hi>See, O Lord, and consider, for I am become vile.</hi>
+            </p>
+            <p>
+               <hi>Pastors,</hi> as if they were professed <hi>Poenitentiars,</hi> in manie places are kept at vnder in disciplinarie subie<g ref="char:EOLhyphen"/>ction,
+<note place="margin">
+                  <hi>2. Sam.</hi> 13.</note> nill they will they, like <hi>Amnon,</hi> looking leane from day to day, their Cottages more spacious than specious (albeit little of either:) a great part of their plenishing,
+<note place="margin">2. <hi>King. 4.10</hi>
+               </note> beeing with <hi>Elisha,</hi> their stoole and bed, their table and candle-sticke: and forced in other thinges to goe in one categorie with <hi>Gibeons</hi> ambas<g ref="char:EOLhyphen"/>sadours
+<pb n="7" facs="tcp:191561:6"/>sent vnto <hi>Ioshua:</hi>
+               <note place="margin">Ioshua. 9.13.</note> beeing so farre vnable to vse hospitalitie (as th'Apostle requireth in such) to others,
+<note place="margin">1. Tim. 3.</note> as they haue more neede to bee receiued (like <hi>Eliah,</hi>
+               <note place="margin">1. King. 27.</note> with the Widow of <hi>Sarepthah</hi>) in hospitalitie by others.</p>
+            <p>
+               <hi>People,</hi> who starue for the bread of Life, haue <hi>Zions</hi> dolorous threnodie put in their mouthes,
+<note place="margin">Jerem. 4.31.</note> and are moued to crie, <hi>Woe is mee nowe, for my soule fainteth be<g ref="char:EOLhyphen"/>cause of the murtherers:</hi> So that justlie may the Lord expostulate by the Prophet, saying, <hi>Also in their winges is found the blood of the soules of poore Innocentes,</hi>
+               <note place="margin">Jerem. 2.34.</note>
+               <hi>I haue not found it in holes, but vpon the high places:</hi> pra<g ref="char:EOLhyphen"/>ctising flatte contrary to that prayer,
+<note place="margin">Matth. 6.10. Mat. 8.34.</note>
+               <hi>Let thy Kingdome come:</hi> and with the <hi>Gergesins</hi> for their filthie lucres sake, expelling CHRIST out of their coastes.</p>
+            <p>
+               <hi>The poore,</hi> by this sacrilegious robberie, who are our flesh and CHRISTS members, and whose crie, is his crauing, and their hand his treasurie, are cruellie bereft, and carelesselie troden vnder: So that where out of their hospitall oratories a consort of prayers and praises for their bene-factours should haue beene like incense offered vp to the Lord, they are forced in their feeble strayinges, and bed-fast staruinges, to poste such groanes to the Tribunall of <hi>Iustice,</hi> as may bee sittest complainers of their want, and pleaders for their wrong.</p>
+            <p>
+               <hi>The Schooles</hi> of the Prophets, and Seminaries of the Church, what interest they haue receiued, euen forrainers doe knowe, and home-bred doe regrate. As the <hi>Philistims</hi> filled <hi>Isaacs</hi> fountaines,
+<note place="margin">Genes. 26.</note> which his
+<pb n="8" facs="tcp:191561:7"/>fathers seruantes had digged; so stopping likewise by their earthlie auarice, those sacred conduites, which others had founded, from whence the pleasant streames of Sciences should flowe and fill the land, <hi>ut hinc etiam, &amp; lucem &amp; pocula sacra.</hi>
+            </p>
+            <p>O leaue then, <hi>Sir,</hi> such a sacred stampe of your Royall presence at this time, for the comfort of the mourners behinde you, that the happie relish thereof may delight the posteritie to recorde, &amp; characterize in letters of loyall loue vpon the tables of rejoyced heartes,
+<note place="margin">Basilic. dor. booke 2. pag. 44.</note> that which your Majestie acknowledgeth to bee the fairest stile of a Christian Prince, to bee <hi>a nur<g ref="char:EOLhyphen"/>sing father of the Church of IESVS.</hi>
+            </p>
+            <p>And as your Majesty hath caused restitution of the portions of the Prelates of the Church, thereby to abolish our <hi>paritie,</hi> so extende your gracious and like tender care to the Preachers of the Church, and ab<g ref="char:EOLhyphen"/>rogate their <hi>pouertie,</hi>
+               <note place="margin">1. King. 3.</note> who with the poore woman that pleaded restitution of her fraudefullie-stollen childe from her, before you, our godlie and wise <hi>Sa<g ref="char:EOLhyphen"/>lomon,</hi> claimeth equitie likewise, <hi>suum cuique.</hi>
+            </p>
+            <p>And as you are a Defender of the Faith, bee like<g ref="char:EOLhyphen"/>wise of the maintainance of the meanes thereof, and so inlarge his Kingdome, who peaceablie hath inlar<g ref="char:EOLhyphen"/>ged yours: and see that hee haue his right, who must keepe you and yours euer in your right Royall: coun<g ref="char:EOLhyphen"/>ting euer (as your selfe saieth) <hi>the flourishing of the Church to bee one of the chiefest pointes of your earthlie glorie.</hi>
+               <note place="margin">Basil. dor. 2. booke, fol. 43.</note>
+            </p>
+            <p>In some part then, <hi>Sir,</hi> let the pietie and prudence
+<pb n="9" facs="tcp:191561:7"/>of your selfe and your estates, amend at this time that former act of annexation: whereby not onlie landes, (which more tolerablie may be retained) but also be<g ref="char:EOLhyphen"/>sides tithes, the very small gleanings of poore &amp; petty Vicarages are monstrouslie metamorphized <hi>tempo<g ref="char:EOLhyphen"/>rall,</hi> and made <hi>Lordes</hi> and <hi>Barons customes:</hi> so that the <hi>Patrons</hi> nowe are <hi>Parsons,</hi> and <hi>they fleece the sheepe who feede not the flocke.</hi> Or (as that reuerende Father affir<g ref="char:EOLhyphen"/>med) if erections can not suffer further correction, &amp; robberie restitution, that <hi>Salomons</hi> dimension at least of due sufficiencie, may be measured foorth, which may both vindicate from pride and contempt.</p>
+            <p>Whome you loue, therefore, let them not keepe such an eating moth, and consuming canker, which howsoeuer for the present <hi>like stollen waters the same seeme sweet,</hi> yet in end it shall proue but like the accur<g ref="char:EOLhyphen"/>sed water, whereof the guiltie woman did drink, cau<g ref="char:EOLhyphen"/>sing swelling at first indeede, but consuming rotten<g ref="char:EOLhyphen"/>nesse at last: And as <hi>Iaakob</hi> was to <hi>Esau,</hi>
+               <note place="margin">
+                  <hi>Genes.</hi> 25.</note> the holie thing shall bee the supplanter of the vnholie vsurper: so that getting the pottage, and hunting their profite, they shall lose the birth-right, and misse the blessing.</p>
+            <p>For <hi>Dans</hi> Serpent will so bite the horse-heeles once,
+<note place="margin">Genes. 49.</note> that assuredlie the ryder will in ende fall back<g ref="char:EOLhyphen"/>wardes:
+<note place="margin">Ioshua. 7. Genes. 41.</note> and <hi>Achans</hi> theft will bring him and his whole house to a consuming fire at last: <hi>Pharaohs</hi> leane Kye and blasted Eares of Corne, when they haue deuoured the fatte and the full, shall bee still as leane and blasted as before:
+<note place="margin">1. King. 41.</note> and <hi>Achabs</hi> robbing of
+<pb n="10" facs="tcp:191561:8"/>poore <hi>Naboths</hi> Vineyarde, will lose to him his life, and his rich Kingdome.
+<note place="margin">Dan. 5</note>
+               <hi>Nebuchadnezars</hi> spoyling of the Temple, will once bee seene on <hi>Belthazzar</hi> his successour:
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xod. 16.20.</note> and <hi>Manna's</hi> residue kept against com<g ref="char:EOLhyphen"/>mand, will but turne to vermine, prouoking God, and polluting the vessels,
+<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nas. 4.7.</note>
+               <hi>Ionas</hi> gourde must wither and decay, because of the hidden worme at the roote thereof:
+<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. King. 4.</note> And if <hi>coloquintida</hi> bee gathered amongst the other herbes, death doubtlesse shalbe in the pot. <hi>Esops</hi> crow with her collop to the nest, shall carrie the cole with it: and assuredlie the execution of the threatned curse shall follow on the medling with the forbidden tree:
+<note place="margin">Genes. 2.17 Mal. 3.9 Hab. 2.6 Deut. 27.17 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd 24, 15</note> So that <hi>Israels</hi> prouerbe shall bee ta<g ref="char:EOLhyphen"/>ken vp against him that increaseth that which is not his, by inquiring, <hi>Ho, how long?</hi> And if he bee accur<g ref="char:EOLhyphen"/>sed who incroacheth vpon his neighboures borders; or if the detaining of the wages of an hyred seruant cryeth for wrath: much more who doeth so on the Lordes limites, and shall that of the Lords imployed messengers shout aloude for vengeance.</p>
+            <p>When the Starre shined which ledde vnto <hi>Christ,</hi>
+               <note place="margin">Math. 2.9</note> the Wise-men of the East following the direction thereof, came to <hi>Bethlehem,</hi> and gaue giftes to <hi>Christ.</hi> And shall it bee thought wisedome nowe, when the Starre of the Gospel hath re-appeared, against the di<g ref="char:EOLhyphen"/>rection thereof to pull from <hi>Christ?</hi>
+               <note place="margin">Revel. 11</note> Shall the Lampe of the Sanctuarie bee kindled, and the Oyle thereof bee with-drawne?
+<note place="margin">Isai. 7.2</note> Shall the <hi>Aramit-papist</hi> seeke the ouer-throwe of <hi>Hierusalems</hi> doctrine, and our <hi>Ephraemite-professoures</hi> joyne with them to seeke the
+<pb n="11" facs="tcp:191561:8"/>ouer-throw of the maintainance of doctrine? the one beeing like the <hi>Iewes,</hi> who sought <hi>Christes</hi> life: the other like the <hi>Romane</hi> Souldiours, who parted <hi>Christs</hi> garmentes.</p>
+            <p>And shall Mount <hi>Sion,</hi> the Lords chosen,
+<note place="margin">Isai. 1.8.30</note> remaine thus still <hi>as a cottage in a Vineyarde, like a lodge in a gar<g ref="char:EOLhyphen"/>den of cucumers,</hi> and as <hi>a citie besieged of the enemies?</hi> Shall the ministerie of the worde, the foundation of this Countreyes peace, bee <hi>as a Widow left to the spoyle,</hi> as <hi>an cake whose leafe fadeth,</hi> and a <hi>garden that hath no water?</hi> And shall they still receiue onelie in their handes, that which the Souldioures put mockinglie in <hi>Christes,</hi>
+               <note n="*" place="margin">Such are many modi<g ref="char:EOLhyphen"/>fied stipendes and assigna<g ref="char:EOLhyphen"/>tions. Matt. 27.29. Jerem. 2.9.</note> an emptie hollowe reede (to wit) to vp<g ref="char:EOLhyphen"/>holde them.</p>
+            <p>Goe to the Iles of <hi>Chittim,</hi> and beholde: and send vnto <hi>Kedar,</hi> and the Countreyes round about; and take diligent heede, and see, if there bee anie such thinges:
+<note place="margin">Mal. 3.8 Isai. 5.7.</note> or <hi>what nation there is that hath robbed their gods.</hi> Surelie, the <hi>Lordes expectation was otherwise, hee looked for judgement and zeale but beholde oppression,</hi> and robberie: <hi>for righteousnesse, but beholde a crying.</hi>
+            </p>
+            <p>And indeede <hi>(Sir)</hi> while they were catching all into their angle (beeing with the Prophetesse sonne,
+<note place="margin">Hab. 1.15. Isai. 21. Genes. 49.21</note>
+               <hi>as speedie robbers,</hi> and <hi>swift to the prey:</hi>) They were as <hi>Naphthali, like hindes let goe, giuing goodly wordes,</hi> and promising sufficient plantations: but they haue pro<g ref="char:EOLhyphen"/>ued in ende as <hi>Benjamin,</hi> of whome it is saide,
+<note place="margin">Genes. 49.27</note>
+               <hi>Hee shall rauin as a wolfe, in the morning hee shall deuoure the prey, and at night hee shall diuide the spoyle.</hi> So that the Church may say as is saide, <hi>Lament. chap.</hi> 3. <hi>vers.</hi> 10.
+<pb n="12" facs="tcp:191561:9"/>
+               <hi>They were to mee as Baires lying in waite, and as Lyons in secrete places.</hi> So they get the <hi>goods,</hi> leauing the <hi>good</hi> of the flocke altogether vncared for: for like skilfull aiming <hi>Benjamits,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dg. 20.</note> they haue hit the mark they would beene at, albeit sinistrouslie, with the left hand, and there they put a period, inuerting that speach of the King of <hi>Sodom</hi> to <hi>Abraham,</hi>
+               <note place="margin">Gen. 14.20.</note>
+               <hi>Da mihi animas, bona cape tibi:</hi> to <hi>giue vs the goods, and let others take the soules cure.</hi>
+            </p>
+            <p>And as <hi>Ieroboam</hi> to aduance his Idolatrie made Priestes of the lowest and skirtes of the people who were not of the sonnes of <hi>Leui:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. King. 12.31</note> So manie named pa<g ref="char:EOLhyphen"/>trons, so they may inhaunce their commoditie: and like <hi>Micah,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg. 18.</note> by a priuate paction for a pettie por<g ref="char:EOLhyphen"/>tion indent with the intrant, they care not whome they present:
+<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Sam. 5.</note> albeit <hi>Dagon</hi> should bee set vp anewe beside the Arke of God: counting no longer for the Preacher than hee can serue for their particulare, and so long onelie will sit by <hi>Cherith,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. King. 17.7 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onas. 4.7</note> or repose vnder the <hi>gourde,</hi> as the one flourisheth, or the other floweth.</p>
+            <p>With good <hi>Nehemiah</hi> then,
+<note place="margin">Nehem. 13 11.14. Nehem. 5.9.</note>
+               <hi>Sir,</hi> say to your Rulers and great men, <hi>Why is the house of God thus forsaken and neglected? That which you doe is not good: ought you not to walke in the feare of our God? for the reproach of those that are our enemies,</hi> and assemble your Le<g ref="char:EOLhyphen"/>uites, reponing them in their places, that your God may remember you, and not wipe out your kindnesse that you haue shewed on the House of GOD, and Officers thereof.</p>
+            <p>And as the Angel saide vnto <hi>Gideon,</hi>
+               <note place="margin">Iudg. 6.12.</note>
+               <hi>The Lord is
+<pb n="13" facs="tcp:191561:9"/>with thee, thou valiant man: goe then,</hi> Sir, <hi>in this your might,</hi> and purge your land of such hatefull robberie, And wee hope that the prosperous successe that fol<g ref="char:EOLhyphen"/>lowed good <hi>Hezekiah,</hi> shall likewise attend your Ma<g ref="char:EOLhyphen"/>jesties zeale heerein: whereof it is spoken,
+<note place="margin">2. <hi>Chron. 30.12.</hi>
+               </note> that <hi>the hand of God was vpon all Iudah, and hee gaue them one heart to obey the Kinges commandement according to the word of the Lord.</hi> And of whome it is recorded in the register of eternitie, that <hi>in all the workes that hee began for the seruice of the house of God,</hi>
+               <note place="margin">2. Chron. 31.21.</note>
+               <hi>because hee did them with all his heart, therefore hee prospered</hi> (saieth the Scripture.)</p>
+            <p>By doing whereof, wee hope also in the mightie <hi>GOD</hi> of IACOB, that your Majestie shall haue the greater assurance of securitie against all the enemies of your Royall person and estate: And
+<note n="†" place="bottom">Goureā or Powder treasons. Joshua. 3.6</note>
+               <hi>blood-red,</hi>
+               <note place="margin">Genes. 25.25</note> or <hi>fire-red Esaus,</hi> that traiterouslie are hunted out against your sacred Majestie: and that the prayers of your relieued Leuites, sent vp vnto him whome they carrie on their shoulders before the people in the Arke of his eternall Couenant, shall bee a secrete guarde, like <hi>Elisha's,</hi> against both their <hi>Shimei</hi>-like malice, and <hi>Achitophel</hi>-like machinations.
+<note place="margin">2. Sam. 16.</note>
+            </p>
+            <p>And if hee was pronounced blessed who enlarged <hi>Gad,</hi> much more shall you and your land bee,
+<note place="margin">Deut. 33.20</note> who enlargeth <hi>GOD,</hi> his right whereof hee is robbed, and his <hi>Leuites</hi> inheritance.</p>
+            <p>And if heathen <hi>Pharaoh</hi> was so carefull for his Priestes portions in the scarsitie of <hi>Aegypt,</hi>
+               <note place="margin">Genes. 47.</note> that they should retaine their landes; much more are wee assu<g ref="char:EOLhyphen"/>red,
+<pb n="14" facs="tcp:191561:10"/>that our Christian IACOB, and zealous Soue<g ref="char:EOLhyphen"/>raign, wil haue a care of the Preachers of <hi>Iesus,</hi> in some sufficient measure to restore them their Liuinges.</p>
+            <p>And seeing that <hi>Baals</hi> Priestes are so bountifullie dealt with by <hi>Achab</hi> in <hi>Israel,</hi> and sit at <hi>Iezabels</hi> table, that our godlie <hi>Iehosaphat</hi> will not suffer the Lordes Prophets in <hi>Iudah</hi> to bee vncared for likewise:
+<note place="margin">1. King. 18.</note> or, <hi>as the glaininges of the grapes of Ephraim were better than the vintage of Abiezer;</hi> so that the smallest accidents of Popish shauelinges,
+<note place="margin">
+                  <hi>Iudg.</hi> 8.2.</note> should bee still better than paine<g ref="char:EOLhyphen"/>full Preachers greatest allowance.</p>
+            <p>And what woefull effectes, and fearefull fruites this damnable bramble of sacrilegious rapine and impouerishing of the Church produceth, is too well feene, but not so sorrowed.</p>
+            <p>For first this impouerishing of the Ministerie ma<g ref="char:EOLhyphen"/>keth both them and the calling contemptible, as if the curse of <hi>Ruben</hi> were brought vpon the same: <hi>the excellencie of dignitie,</hi>
+               <note place="margin">Genes. 49.4.</note>
+               <hi>and the excellencie of power is gone,</hi> and <hi>Ieremies</hi> threnodie put in their mouthes, saying, <hi>I am made as the off-scouringes of the worlde,</hi>
+               <note place="margin">Lamen. 3.45</note>
+               <hi>and as the refuse in the midst of the people:</hi> So that <hi>Obadiahs</hi> reue<g ref="char:EOLhyphen"/>rence to <hi>Eliah</hi> is forgotten:
+<note place="margin">1. King. 18. Acts 10. 2. King. 13.</note>
+               <hi>Cornelius</hi> honour to <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> and <hi>Ioash</hi> estimation of <hi>Elisha,</hi> is buried in the graue with him. Wherefore the like judgement is to bee feared, as for the like cause was threatned by the Prophet, saying, <hi>The anger of the Lord hath scattered them, neither shall hee any more regarde them, for they reuerenced not the face of the Priestes,</hi>
+               <note place="margin">Lament. 4.16</note>
+               <hi>nor had in estima<g ref="char:EOLhyphen"/>tion the countenance of the Elders.</hi>
+            </p>
+            <pb n="15" facs="tcp:191561:10"/>
+            <p n="2">2. What abstraction it maketh from doing of the Lordes worke diligentlie, woefull experience too well declareth: for where that precept of <hi>Salomon,</hi>
+               <note place="margin">
+                  <hi>Prov. 27.23 1. Tim. 4.16</hi> 1. <hi>Pet. 5.2</hi>
+               </note>
+               <hi>Bee diligent to know th'estate of thy flocke,</hi> requireth a whole man, busilie occupied, this impouerishing rapine, (like that false mother, who desired the diui<g ref="char:EOLhyphen"/>sion of the <hi>Childe</hi>) halfes manie <hi>men</hi> in such sorte, as thorowe <hi>Midians</hi> spoyling,
+<note place="margin">Iudg. 6.11</note>
+               <hi>Gideon</hi> must priuatelie goe to the threshing himselfe: So manie poore Prea<g ref="char:EOLhyphen"/>chers, when with <hi>hand-griping</hi> giuing, and <hi>heart<g ref="char:EOLhyphen"/>grieving</hi> getting, they haue receiued their short straw for their long taske: for necessitie of life, they are for<g ref="char:EOLhyphen"/>ced besides to vse other shiftes: and as they are ser<g ref="char:EOLhyphen"/>uantes to the flocke for CHRISTES sake, so to bee drudges, in a manner, to themselues, for maine ne<g ref="char:EOLhyphen"/>cessities sake, beeing heerein often times forced to say with the Apostle,
+<note place="margin">Acts 20.34</note>
+               <hi>These handes haue ministred to my necessities, and these that are with mee.</hi>
+            </p>
+            <p n="3">3. It is a readie way heereby to make that feare<g ref="char:EOLhyphen"/>full curse fall vpon the land, <hi>Like people, like Priest:</hi>
+               <note place="margin">Isai. 24.2 and 28.10</note> so that <hi>when the people shall bring him a booke, saying, Reade this wee pray thee: hee shall answere, I cannot, for it is sea<g ref="char:EOLhyphen"/>led, and I am couered with the spirit of slumber. Thus shall not the Priestes lippes preserue knowledge: But when they shall seeke the lawe of God at his mouth, they shall come to the welles, and finde no water, and returne with their ves<g ref="char:EOLhyphen"/>sels emptie:</hi> the holie <hi>Vrim</hi> thus being darkened,
+<note place="margin">Isai. 56.10 Deut. 22.10</note> &amp; <hi>the Lordes people perishing for want of knowledge.</hi> So that the best estate of the Ministerie shall bee but plowing with an Oxe and an ignorant Asse together, <hi>their
+<pb n="14" facs="tcp:191561:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:191561:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:191561:12"/>right arme being cleane dryed vp,</hi>
+               <note place="margin">Zech. 11.17</note>
+               <hi>and their right eye woe<g ref="char:EOLhyphen"/>fullie darkened.</hi>
+            </p>
+            <p n="4">4. It greatlie hindereth the sinceritie of Gods worde,
+<note place="margin">1. Sam. 6.</note> in the euidence and libertie thereof, so that rightly it may be called the <hi>musseling</hi> of their mouths who carrie the Lordes Arke from lowing freelie as they goe, neither turning to the right nor left hand: or as cleane beastes diuiding the hoofe: and disseca<g ref="char:EOLhyphen"/>ting the worde aright,
+<note place="margin">2. Tim. 2.15</note> rebuke to whome rebuke be<g ref="char:EOLhyphen"/>longeth.
+<note place="margin">Iudg. 18.</note> Therefore the <hi>Bethlemite Leuite</hi> must tole<g ref="char:EOLhyphen"/>rate the <hi>Teraphim,</hi> and the Idoles that are in Mount <hi>Ephraim,</hi> for feare of the losse of his place found out, and of the want of <hi>Micah's</hi> pettie portion, and the <hi>Baptist</hi> must looke for no more fauour of <hi>Herod,</hi>
+               <note place="margin">Marke. 6.</note> if hee once touch the hauing of his brothers wife: So that
+<q>
+                  <l>Dum medicas adhibere manus ad vulner a pastor</l>
+                  <l>Abnegat,
+<note place="margin">Virg. Georg.</note> vitium alitur viuitque tegendo.</l>
+               </q>
+               <hi>Christes</hi> Kingdome thus nowise increasing, but that of Sathans tyrannie ouer men altogether standing.</p>
+            <p n="5">5. It wonderfullie discourageth Parentes to traine vp their Children at Schooles of Learning or Vniuersities: especiallie in that sacredest Science of Heauenlie <hi>Diuinitie,</hi> either within or without the Countrey, for their better inabling for the Holie Mi<g ref="char:EOLhyphen"/>nisterie, as likewise the verie heartes of Youths them<g ref="char:EOLhyphen"/>selues, when they see such beggerlie prouisions one<g ref="char:EOLhyphen"/>lie to bee looked for, as the best rewarde of their pain<g ref="char:EOLhyphen"/>full studies,
+<note place="margin">Dat Gale<g ref="char:EOLhyphen"/>nus opes, &amp;c.</note> and the richest recompence of their ex<g ref="char:EOLhyphen"/>pensiue charges, † all other Sciences hauing better &amp;
+<pb n="17" facs="tcp:191561:12"/>more assured hopes, and this onelie beeing depriued of that double honour, whereof Gods Spirite hath thought it worthie,
+<note place="margin">2. Cor. 4.2. 1. Tius. 5.17 Prov. 3.9</note>
+               <hi>due reuerence</hi> (to wit) and <hi>debt<g ref="char:EOLhyphen"/>bound recompence,</hi> the with-drawing of this one, being the vnhappie cause of the want of that other.</p>
+            <p n="6">6. It exileth in a manner, the best and quickest spirites of our Nation to other Kingdomes, and so depriueth their owne Conntrey of their fruitfull la<g ref="char:EOLhyphen"/>boures: Which otherwise to the great aduancement of both Church and Commonwealth at home, hap<g ref="char:EOLhyphen"/>pilie it might injoye: And hath moued many to turne to the Idolatrie and plentie of <hi>Aegypt;</hi> leauing the sinceritie of <hi>Moyses,</hi> and societie of <hi>Israel.</hi>
+               <note place="margin">Genes. 26. and 46.</note> Therefore it is, that as <hi>Isaac</hi> went to <hi>Gerar,</hi> and <hi>Iaakob</hi> to sojourne in <hi>Aegypt,</hi> where there was foode; Euen so they get themselues elsewhere, where Vertue and Learning haue their owne reward. And thus our Sunnes shine in others Firmamentes, and our best Trees fructi<g ref="char:EOLhyphen"/>fie in other mens Gardens:
+<note place="margin">Mat. 13.57 Luke 4.27</note> So that as <hi>Nazarethes in<g ref="char:EOLhyphen"/>gratitude</hi> may bee our double dittie: so <hi>sic vos non vo<g ref="char:EOLhyphen"/>bis,</hi> may bee our quadruple diton.</p>
+            <p n="7">7. It is the speciall cause and occasion, both of the grouth and cōtinuance of ignorance &amp; Poperie in the land, wherby <hi>y<seg rend="sup">e</seg>
+               </hi> language of <hi>Ashdod</hi> halfes with <hi>y<seg rend="sup">e</seg>
+               </hi> speach of <hi>Israel:</hi>
+               <note place="margin">Nehem. 13</note> And <hi>Sanballat</hi> with his conspiring associates, attendeth the hinderance of the building of the walles of <hi>Hierusalem:</hi> and <hi>Rehum</hi> with <hi>Tatnai,</hi>
+               <note place="margin">
+                  <hi>Nehem.</hi> 4 <hi>Esra.</hi> 4.</note> and their companions the rearing of the Temple: and so long still, shall <hi>Dagon</hi> stande in such places, till by preaching the presence of <hi>Gods Arke</hi> make him to
+<pb n="18" facs="tcp:191561:13"/>fall, and the <hi>Leuites</hi> that carrie the same receiue their due portion.</p>
+            <p n="8">8. Besides that, it maketh the Lord angrie with the <hi>Land,</hi>
+               <note place="margin">Aalach 3 9.</note> &amp; as <hi>Malachi</hi> saieth, bringeth his grieuous curse and visitation vpon the same. It is likewise the most poysonable plant, and perilous practise, against the good of the Ciuill estate of the Countrey, as ne<g ref="char:EOLhyphen"/>uer anie Age did knowe the like before.</p>
+            <p>For doeth not daylie experience manifestlie teach, that no greater yoke nor spurre of compulsion is, and hath beene vsed, to force Gentlemen sell &amp; put away their auncientlie possessed Landes (which are to them as <hi>Naboths</hi> deare Vineyarde) for halfe value and leffe than the power and possession of the right of the tithe: for hence it is, that otherwise Landes haue lyen waste:
+<note n="‡" place="margin">By imposed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oudge gir<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omes, which compare, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Princes <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>axations shall no wise <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quall them.</note> for none so could labour them, and manie are vndone and ‡ wracked in the whole Kingdome, dis<g ref="char:EOLhyphen"/>sention and grieuous grudging is founde amongst equalles, the heauie yoke of slauerie is laide vpon in<g ref="char:EOLhyphen"/>ferioures, Land is the most commonmerchandize of anie: fewars are in no better condition nor farmers: Policie in building and planting is hindered: the la<g ref="char:EOLhyphen"/>bourer is exacted on by his Lands owner: the owner is slaued againe by his Tithe-master: Tithes are the thing in all the Kingdome most griedilie gaped at: Preachers and the Poore are impiouslie robbed: and in a worde, both Church and Commonwealth woe<g ref="char:EOLhyphen"/>fullie wronged.</p>
+            <p>And what an aduantage for intestine troubles or vproares (which the Lord auert) this sacrilegious ra<g ref="char:EOLhyphen"/>pine
+<pb n="19" facs="tcp:191561:13"/>is, or may bee, and ingrossing of the Tithes of sundrie Parishes, and of heritable proprieters Lands, into the hands of mightie men, and of the hinderance of the Princes seruice speedilie to suppresse the like, anie one may easilie gesse: for the power of the Tithe not only slaueth men vnto them in the time of peace, but
+<note n="†" place="bottom">So that men cannot bee said to be free lieges.</note> also in time of commotion, if not onelie, not cōming against them bee, albeit in the seruice of ju<g ref="char:EOLhyphen"/>stice, &amp; of the supreme Magistrate: but also if ready ri<g ref="char:EOLhyphen"/>sing, and cleauing vnto them bee not, to bee associate actors with them of their praesumptuous designes, no lesse to bee looked for than <hi>Summum jus</hi> thereaf<g ref="char:EOLhyphen"/>ter, which heerein I am sure may bee called <hi>Summa injuria:</hi> and which vpon euerie other light discon<g ref="char:EOLhyphen"/>tentment also, men are nowe menaced with, sundrie feeling likewise the stroke of their lightlie conceiued but heauilie executed, wrath.</p>
+            <p>And yet manie of these, like the rauenous fowles, of all other are the leanest: they catch all, and can keepe nothing: for the Lord bloweth vpon it, and as <hi>Namans</hi> leprosie with his gift cleaued to <hi>Gehesi;</hi>
+               <note place="margin">Hagg ai. 1.7</note> so GODS curse with his portion adhaereth to them like<g ref="char:EOLhyphen"/>wise.
+<note place="margin">2 King 5</note>
+            </p>
+            <p>Seeing therefore (SYR) that this hatefull <hi>Hydra</hi> doeth luxuriate and breake foorth into so manie dan<g ref="char:EOLhyphen"/>gerous heads, bee to this Serpent as a valiant <hi>Hercu<g ref="char:EOLhyphen"/>les;</hi> and suppresse in time, the feared grouth of such daylie and deadlie euilles, which assuredlie otherwise will bee found to ensue.</p>
+            <p>And because likewise <hi>Iaakob</hi> hath an <hi>Esau</hi> with
+<pb n="20" facs="tcp:191561:14"/>him in the wombe,
+<note place="margin">
+                  <hi>Genes.</hi> 25.</note> and IESVS a <hi>Iudas</hi> going in his companie, <hi>&amp; nos nostro jugulamus gladio,</hi> let your Ma<g ref="char:EOLhyphen"/>jesties holie zeale take such order with these intestine cut-throates, and mothes of the Ministerie, who for their owne priuate gaine, by getting great girsomes, by subdolous assignations, and other vile and late in<g ref="char:EOLhyphen"/>uented forgeries,
+<note place="margin">2. Tim. 4.10</note> with <hi>Demas</hi> hath forsaken CHRIST, and embraced the worlde, and so dilapidate the li<g ref="char:EOLhyphen"/>uinges, which they in good estate, either of present possession, or certaine expectation, were presented and admitted vnto, and dealt without anie regarde of posteritie or successour: that it is a great hazarde if euer the Gospel flourish in these places, which most of them once occupied: who if they were mar<g ref="char:EOLhyphen"/>ked with the like impression of Iudgement, as was before inflicted vpon their fellow <hi>Gehesi,</hi> I feare (Sir) there should neede more Leper-houses within the diocies of this your Majesties Kingdome: whose suc<g ref="char:EOLhyphen"/>cessoures doubtlesse shall wish of them,
+<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob. 3.11.</note> as <hi>Iob</hi> did of himselfe in his impatiencie, that their Birth-day had beene their Buriall, and that the judgement of good <hi>Iosiah,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 13</note> executed vpon the bones of <hi>Beth-els</hi> Priestes, were likewise so on theirs.</p>
+            <p>
+               <hi>SYR,</hi> For his sake therefore whose Faith you de<g ref="char:EOLhyphen"/>fende, maintaine his cause in this also; and suffer not the Church to bee <hi>a denne of theeues:</hi> but whether he bee Prelate or Preacher whatsoeuer, that impaireth <hi>Leuies</hi> inheritance, and emptieth the Sancturie, with the whippe-coardes of your royall authoritie redresse such wrong, and driue them out of the Temple.</p>
+            <pb facs="tcp:191561:14"/>
+            <p>And albeit it bee too <hi>Serò,</hi> as <hi>Vlisses</hi> caused binde him to the mast, lest hee should indanger himselfe, and perill his followers by the intising voyce of the singing <hi>Syrens.</hi> So binde vp, <hi>SYR,</hi> the handes of all Ecclesiasticall persons, that seeing no vsufractuar nor life-renter of mans right can prejudge the lawfull heire or successour, or dispone but for their owne time by the Lawe: so that the same equitie in like manner in Gods right may stand. Otherwise <hi>Religion,</hi> the maine pillar of this Kingdome, at last assuredlie will ruinate and decay: and while anie thing shall re<g ref="char:EOLhyphen"/>maine as yet to dilapidate, no stay shall bee, till like the play-fishes of <hi>Iordan,</hi> in the common speate of exemplare wickednesse, speedilie all hurle downe in<g ref="char:EOLhyphen"/>to the dead Sea of generall defection, and desperate desolation.</p>
+            <p>Whereby the fire which should warme the succes<g ref="char:EOLhyphen"/>soures in their places, shall not onelie bee extingui<g ref="char:EOLhyphen"/>shed,
+<note place="margin">1. Sam. 2.</note> but men bee made (as by <hi>Eli's</hi> sonnes impietie) for the Preachers fault to disdaine the profession. They also who preach spirituall libertie, shall fasten the yoke of corporall bondage vpon their neckes, whose tithes they set to others. In Gods judgement likewise they make themselues contemptible for no longer are they respected than they haue done the turne: And last, they leaue the coale and fewell of such woefull variance amongst men, which often hath proued, and shall proue, a flaming fire when they lye in ashes.</p>
+            <p>O let your sacred heart then, <hi>SYR,</hi> harbour our
+<pb facs="tcp:191561:15"/>regrate, and by the royall gates of your eye and eare let gratious accesse bee to that seate of pittie, <hi>that the bellowes bee not seene to bee brunt,</hi>
+               <note place="margin">
+                  <hi>Ierem.</hi> 6.26.</note>
+               <hi>the Lead con<g ref="char:EOLhyphen"/>sumed in the fire, and the founder to haue melted in vaine:</hi> or that with the Prophete wee bee still made to mourne, <hi>that the haruest is past, the sommer is ended, and wee are not holpen:</hi>
+               <note place="margin">
+                  <hi>Ierem.</hi> 8 20.</note> but with good <hi>Hezekiah, spea<g ref="char:EOLhyphen"/>king comfortablie to your Leuites, &amp; doing so, that they may bee incouraged in the Lawe of the Lord:</hi>
+               <note place="margin">
+                  <hi>2 Chr. 30.22. &amp;</hi> 31.4.</note> and hauing our petition without neede of repetition gratiouslie regarded, supplying out of the store-house of your prudent heart, what wee meane and would speake: and mending with your powerfull hande, what wee moane and would haue done, with inflamed heartes, and enlarged mouthes, bearing <hi>Israels</hi> affection, and borrowing their wordes, wee may euer breath, and burst foorth in the like louing prayer to <hi>GOD,</hi> and loyall wish for our KING.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="epigraph">
+                        <head>TO GOD.</head>
+                        <bibl>
+                           <hi>PSAL. XXI.</hi>
+                        </bibl>
+                        <p>
+                           <hi>LORD,</hi> preuent thine anointed with liberall blessings, giue vnto him his heartes desire,
+<note place="margin">
+                              <hi>Psal.</hi> 21.</note> and denie him not the request of his lippes.</p>
+                        <p>Let his glorie bee great in thy saluation, and grant him a long life, euen for euer and euer.</p>
+                        <p>As thou hast set much honour and dignitie vpon him, so set him still as blessinges for euer, and make him glad with the joye of thy countenance.</p>
+                     </div>
+                     <div type="epigraph">
+                        <pb n="23" facs="tcp:191561:15"/>
+                        <head>TO THE KING.</head>
+                        <bibl>
+                           <hi>PSAL. XX.</hi>
+                        </bibl>
+                        <p>
+                           <hi>THE</hi> Name of the <hi>GOD</hi> of <hi>Iaakob</hi> defende thee, and sende thee helpe from his Sanctuarie, and streng<g ref="char:EOLhyphen"/>then thee out of Zion.</p>
+                        <p>The <hi>LORD</hi> grant thee according to thine heart,
+<note place="margin">
+                              <hi>Psal.</hi> 20.</note> and fulfill all thy purpose; that wee may rejoyce in thy salua<g ref="char:EOLhyphen"/>tion, and set vp the banner of praise in the Name of our <hi>GOD,</hi> when the <hi>LORD</hi> shall performe thy petitions.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <closer>AMEN. AMEN.</closer>
+            <trailer>
+               <figure>
+                  <p>A H</p>
+                  <figDesc>printer's device of Andro Hart</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:191561:16"/>
+            <l>ON <hi>Caltha</hi> since that <hi>Phoebus</hi> deign's to blinke,</l>
+            <l>Let others fauours joyntlie therewith linke.</l>
+            <l>And since that <hi>Royall</hi> verdict doth allow,</l>
+            <l>These limned Lines, let others judgements bow.</l>
+            <byline>A. D.</byline>
+            <pb facs="tcp:191561:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
